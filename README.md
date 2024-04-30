@@ -44,18 +44,18 @@ esto lo desarrollare uen una nota la pie [^1]
 
 tambien hay emojis. :trollface: 🛐
 
-[!NOTE]
-infromacion utli que quiero puntualizor.
+>[!NOTE]
+>infromacion utli que quiero puntualizor.
 
-[!TIP]
-Consejitos de media noche 🇦🇿
+>[!TIP]
+>Consejitos de media noche :accessibility:
 
-[!IMPORTANT]
-No hacer ruido!
-
-
+>[!IMPORTANT]
+>No hacer ruido!
 
 
+>[!WARNING]
+>Para que Urko no se enfade
 
-
-
+>[!CAUTION]
+>Wet floor 
