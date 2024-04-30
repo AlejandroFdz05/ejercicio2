@@ -21,5 +21,4 @@ Bloque de codigo
 
 para links [Nombre que aparece](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)
 
-![https://www.tulankide.com/es/mondragon-unibertsitatea-impartira-via-on-line-todas-las-clases-presenciales-de-sus-campus-de-euskadi-desde-manana/@@download/image/logo.png]
-
+![gallardo](https://i.auto-bild.de/ir_img/6/9/2/9/5/4/Lamborghini-Gallardo-LP570-4-Spyder-Performante-560x373-5d396fc1203aba8e.jpg?impolicy=leadteaser)
