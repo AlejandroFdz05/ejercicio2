@@ -40,9 +40,9 @@ o por el contrario:
 
 esto lo desarrollare uen una nota la pie [^1]
 
-[^1] Desarrolado acá
+[^1]: Desarrolado acá
 
-
+tambien hay emojis. :trollface: 🛐
 
 
 
