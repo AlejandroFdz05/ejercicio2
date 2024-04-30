@@ -44,5 +44,18 @@ esto lo desarrollare uen una nota la pie [^1]
 
 tambien hay emojis. :trollface: 🛐
 
+[!NOTE]
+infromacion utli que quiero puntualizor.
+
+[!TIP]
+Consejitos de media noche 🇦🇿
+
+[!IMPORTANT]
+No hacer ruido!
+
+
+
+
+
 
 
